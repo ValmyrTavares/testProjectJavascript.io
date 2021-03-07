@@ -1,4 +1,10 @@
     h2{
         color:red;
+        background:gray;
+        width:40%;
+        margin:4px auto;
+        text-align: center;    
+        font-size: 40px;
+
     }
     
